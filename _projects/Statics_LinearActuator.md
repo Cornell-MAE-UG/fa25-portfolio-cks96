@@ -11,7 +11,3 @@ choice), 3 pin supports of which two need to be mounted on the ground and a line
 actuator (pick from this online catalog, use max force values only), design a
 frame/mechanism to lift the maximum possible weight to the highest possible height.
 Assume all the supports and bar/actuator are rigid.
-
-I was inspired by this old radio when I made this rendering:
-
-![Photo of Statics Linear Actuator]({{ "assets/images/Statics_HW4.jpg" | relative_url }})
