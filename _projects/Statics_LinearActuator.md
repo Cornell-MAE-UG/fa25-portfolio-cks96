@@ -14,4 +14,4 @@ Assume all the supports and bar/actuator are rigid.
 
 I was inspired by this old radio when I made this rendering:
 
-![Photo of Statics Linear Actuator]({{ "assets/images/Statics_HW4.jpg" | relative_url }}){: .inline-image-l}
+![Photo of Statics Linear Actuator]({{ "assets/images/Statics_HW4.jpg" | relative_url }})
