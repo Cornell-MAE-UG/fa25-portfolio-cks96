@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Catherine Seo
 description              : Catherine Seo - Projects and CV 
-baseurl                  : "/a25-portfolio-cks96/"
+baseurl                  : "/fa25-portfolio-cks96/"
 
 # Theme and Style
 theme: jekyll-theme-minimal
