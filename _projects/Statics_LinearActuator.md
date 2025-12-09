@@ -12,4 +12,4 @@ actuator (pick from this online catalog, use max force values only), design a
 frame/mechanism to lift the maximum possible weight to the highest possible height.
 Assume all the supports and bar/actuator are rigid.
 
-<img src="assets/images/setp2.jpg" alt="step2">
+<img src="{{'assets/images/step2.jpg' | relative_url}}" width = "500">
